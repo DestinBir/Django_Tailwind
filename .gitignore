@@ -9,6 +9,7 @@ staticfiles/
 
 # Environnements virtuels
 venv/
+env/
 .env
 
 # Node.js
